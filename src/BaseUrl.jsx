@@ -1,4 +1,4 @@
 
 export default function BaseUrl() {
-  return  "https://api.aschpro.com/";
+  return  "https://jindle-backend.vercel.app/";
 }
